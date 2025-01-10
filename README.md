@@ -18,6 +18,6 @@ sudokish.hmmm - file containing the bare  HMMM instructions for solving the sudo
 
 
 How-To:
-* Load Sudokish.lbl into the HMMM simulator.
+* Load Sudokish.lbl into the HMMM simulator. http://shickey.github.io/HMMM.js/
 * Input a 3x3 board with values 1,2,4 or 0 (0 for empty cells that need to be solved). 
 * Run the program.
